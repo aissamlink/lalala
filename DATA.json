@@ -8,9 +8,9 @@
     "Interstitial_idF": "dir inter id facebook",
     "Native_facebook" : "",
 
-    "inter_max": "963c714daa907c2d",
-    "max_banner": "461506a3f027a92e",
-    "Native_max": "0cb286ba542561a9",
+    "inter_max": "000",
+    "max_banner": "0000",
+    "Native_max": "0000",
 
     "key_iron" : "dde421a9",
 
@@ -66,6 +66,6 @@
     "Click_inter": "0",
 
 
-    "networkAd": "admob"
+    "networkAd": "opo"
   }
 }
